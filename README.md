@@ -5,7 +5,7 @@
 * `pkg upgrade -y`
 * `pkg install python -y`
 * `pkg install git -y`
-* `git clone https://github.com/GTSMK/Tools-KhaiSigma`
+* `git clone https://github.com/GTSMK/Tools-KhaiSigma.git`
 * `cd Tools-KhaiSigma`
 * `python khai.py`
 
